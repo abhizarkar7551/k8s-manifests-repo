@@ -11,7 +11,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/your-org/k8s-manifests-repo.git
+    repoURL: https://github.com/abhizarkar7551/k8s-manifests-repo.git
     targetRevision: main
     path: admin
   destination:
